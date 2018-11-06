@@ -1,0 +1,19 @@
+body {
+    background-image: url("NP_DayForNight-6526.jpg");
+    padding: 0;
+    margin: 0;
+  }
+  
+  #map,
+  body,
+  html {
+    height: 700px;
+    margin: 25px;
+    border: solid;
+    border-color: #026cdf
+  }
+.panelheading {
+    background-color: #026cdf;
+    font-family: TM Sans, Arial;
+    color: #fffbfb;
+  }
